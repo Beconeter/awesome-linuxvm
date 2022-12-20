@@ -24,3 +24,6 @@ Right click, go to System -> Edit Application Menu, and remove the first line (w
 ```
 
 Done! Enjoy your VM! you have 4gb of ram, so do whatever!
+
+Here is a video guide, below.
+<https://www.youtube.com/watch?v=VYTB-y5pA1Q> 
